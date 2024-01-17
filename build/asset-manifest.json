@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e81aae9.css",
+    "main.js": "/static/js/main.d7eedfdd.js",
+    "static/media/video.mp4": "/static/media/video.bb9ced1bb519783b651f.mp4",
+    "static/media/video2.mp4": "/static/media/video2.1763eeb63dcedd1911fc.mp4",
+    "static/media/bali_island.jpg": "/static/media/bali_island.212be071166b21066da2.jpg",
+    "static/media/cinque _terre.jpg": "/static/media/cinque _terre.5b97835a4c54a99c38db.jpg",
+    "static/media/machu_picchu.jpg": "/static/media/machu_picchu.31d1e119c9944c5b4a21.jpg",
+    "static/media/guanajuato.jpg": "/static/media/guanajuato.5411fc90d7792f72fd18.jpg",
+    "static/media/ankor_wat.jpg": "/static/media/ankor_wat.90611d70424e4594faa6.jpg",
+    "static/media/great_barrier_reef.jpg": "/static/media/great_barrier_reef.c08488a2e3388c5f4b89.jpg",
+    "static/media/cappadocia.jpg": "/static/media/cappadocia.84df8a75f1c715c0ef71.jpg",
+    "static/media/bora_bora.jpg": "/static/media/bora_bora.1a31261deb6918320790.jpg",
+    "static/media/taj_mahal.jpg": "/static/media/taj_mahal.d0dd7b4752ef2ea89d82.jpg",
+    "index.html": "/index.html",
+    "main.7e81aae9.css.map": "/static/css/main.7e81aae9.css.map",
+    "main.d7eedfdd.js.map": "/static/js/main.d7eedfdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e81aae9.css",
+    "static/js/main.d7eedfdd.js"
+  ]
+}
